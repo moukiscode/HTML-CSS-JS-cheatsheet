@@ -1,0 +1,13 @@
+h1 {
+    text-align: center;
+    color:  #b3b3b3;
+    font-size: 3.5rem;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    position: center;
+    margin-top: 0px;
+}
+
+#logo {
+    postion: relative;
+    margin-top: 0px;
+}
