@@ -32,3 +32,8 @@ h1 {
 	-o-transform:scale(1.05); /* Opera */
 	transform:scale(1.05);
 }
+
+#nav-buttons {
+    display: flex;
+    justify-content: space-evenly;
+}
