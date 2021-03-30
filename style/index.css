@@ -26,11 +26,11 @@ h1 {
 }
 .image:hover img {
 /* L'img est grossie de 5% */
-	-webkit-transform:scale(1.05); /* Safari et Chrome */
-	-moz-transform:scale(1.05); /* Firefox */
-	-ms-transform:scale(1.05); /* Internet Explorer 9 */
-	-o-transform:scale(1.05); /* Opera */
-	transform:scale(1.05);
+	-webkit-transform:scale(1.1); /* Safari et Chrome */
+	-moz-transform:scale(1.1); /* Firefox */
+	-ms-transform:scale(1.1); /* Internet Explorer 9 */
+	-o-transform:scale(1.1); /* Opera */
+	transform:scale(1.1);
 }
 
 #nav-buttons {
