@@ -32,3 +32,16 @@ h1 {
 	-o-transform:scale(1.05); /* Opera */
 	transform:scale(1.05);
 }
+
+#content {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	width: 100rem;
+}
+
+h2 {
+	font-size: 2rem;
+	color: #333333;
+	text-align: center;
+}
